@@ -8,17 +8,18 @@
 }
 
 .cat {
-    width: 100px;
+    width: 200px;
+    height: 70%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .cats-list-box{
     display: flex;
+    justify-content: center;   
     margin-top: 50px;
     align-items: center;
     background-color: #cccccc;
-    pad: 5px;
-    justify-content: center;
-    gap: 20px;
 }
 
 .main-image{
